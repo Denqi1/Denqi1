@@ -1,10 +1,10 @@
-### Привет, мир! 👋 Меня зовут Денис.
+### Hello, world! 👋 I'm Denis.
 
-Я frontend-разработчик, работаю в amoCRM над развитием CRM-системы. Здесь я храню свои проекты, эксперименты и учусь новому.
+I'm a frontend developer at amoCRM, where I work on building and improving a CRM system. This is where I keep my projects, run experiments, and continue learning new things.
 
 ---
 
-#### 🛠️ Чем я занимаюсь:
+#### 🛠️ What I'm up to:
 - 🔭 Сейчас работаю над проектом: **weekly-planner**.
 - 🌱 Углубленно изучаю: **React**.
 - 👯 Буду рад помочь с: **Open source проектами**.
