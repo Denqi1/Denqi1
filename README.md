@@ -5,16 +5,16 @@ I'm a frontend developer at amoCRM, where I work on building and improving a CRM
 ---
 
 #### 🛠️ What I'm up to:
-- 🔭 Сейчас работаю над проектом: **weekly-planner**.
-- 🌱 Углубленно изучаю: **React**.
-- 👯 Буду рад помочь с: **Open source проектами**.
-- 💬 Спроси меня о: **frontend-разработке, интересных задачах, сотрудничестве и моем опыте работы**.
+- 🔭 Currently working on: **weekly-planner**.
+- 🌱 Deepening my knowledge in: **React**.
+- 👯 Looking to collaborate on: **Open source projects**.
+- 💬 Ask me about: **frontend development, interesting challenges, collaboration, and my work experience**.
 
-#### 📫 Как со мной связаться:
+#### 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Denqil)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denqilen@gmail.com)
 [![Yandex](https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:denis.ui.engineer@yandex.ru)
 
 ---
 
-⭐️ **Заглядывай в репозитории ниже, там могут быть интересные штуки!**
+⭐️ **Check out the repositories below — there might be some interesting stuff!**
