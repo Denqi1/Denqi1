@@ -5,7 +5,7 @@ I'm a frontend developer at amoCRM, where I work on building and improving a CRM
 ---
 
 #### 🛠️ What I'm up to:
-- 🔭 Currently working on: **[QuizBeast](https://github.com/Denqi1/QuizBeast)**.
+- 🔭 Currently working on: **[mini-crm](https://github.com/Denqi1/mini-crm)**.
 - 🌱 Deepening my knowledge in: **React**.
 - 👯 Looking to collaborate on: **Open source projects**.
 - 💬 Ask me about: **frontend development, interesting challenges, collaboration, and my work experience**.
